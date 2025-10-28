@@ -25,8 +25,7 @@ As data scientists preparing for future job applications, we want to ensure our 
 3. **Output**  
    - A sorted list of job postings most related to personal data science interests and goals.
 
-![Job Selector Diagram](https://drive.google.com/file/d/1So4NHnJy50cpN99ANzAnImm1KAgWKpt3/view?usp=drive_link)
-
+![Job Selector Diagram](https://drive.google.com/uc?export=view&id=1R4EoeyOGOIjQYN9EoiVbqRCr1zvYHFq6)
 ---
 
 ### Part 2: Skill Clustering
