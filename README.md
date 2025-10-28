@@ -70,7 +70,3 @@ As data scientists preparing for future job applications, we want to ensure our 
 - Extend to include company-specific skill patterns
 - Build an interactive dashboard
 
-## 👨‍💻 Group Members
-
-- Conducted January to February 2025 in Hong Kong  
-- Team of data science enthusiasts focused on career readiness
