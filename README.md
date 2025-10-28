@@ -44,8 +44,7 @@ As data scientists preparing for future job applications, we want to ensure our 
 4. **Visualization**  
    - Generated word clouds and cluster summaries to visualize core skill groups.
 
-![Skill Clustering Diagram](./images/part2-skill-clustering.png)
-
+![Skill Clustering](https://drive.google.com/uc?export=view&id=1So4NHnJy50cpN99ANzAnImm1KAgWKpt3)
 ---
 
 ## 📊 Key Technologies
